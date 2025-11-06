@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/tyronejosee/project_new_store#gh-light-mode-only" target="_blank">
     <img src="./.github/logo_color.svg" alt="logo-light" width="80">
-  </a>
+  </a> 
   <a href="https://github.com/tyronejosee/project_new_store#gh-dark-mode-only" target="_blank">
     <img src="./.github/logo_color.svg" alt="logo-dark" width="80">
   </a>
